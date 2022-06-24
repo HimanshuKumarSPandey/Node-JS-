@@ -1,0 +1,18 @@
+First Application : Before creating an actual "Hello, World!" application using Node.js, let us see the
+components of a Node.js application. A Node.js application consists of the following three
+important components:
+1. Import required modules: We use the require directive to load Node.js
+modules.
+2. Create server: A server which will listen to client's requests similar to Apache
+HTTP Server.
+3. Read request and return response: The server created in an earlier step will
+read the HTTP request made by the client which can be a browser or a console and
+return the response.
+
+
+Creating Node.js Application
+Step 1 - Import Required Module
+Step 2-Create Server
+Step 3-Testing Request & Response
+Make a Request to the Node.js Server
+Open http://127.0.0.1:8081/ in any browser and observe the following result.
